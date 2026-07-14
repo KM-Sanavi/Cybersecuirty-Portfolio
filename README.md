@@ -69,8 +69,6 @@ My goal is to build strong practical skills in cybersecurity and pursue a career
 **LinkedIn**  
 www.linkedin.com/in/sanavi-k-m-0b9250291
 
-**GitHub**  
-https://github.com/KM-Sanavi
 
 ---
 
