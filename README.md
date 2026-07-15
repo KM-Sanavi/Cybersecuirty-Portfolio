@@ -31,32 +31,7 @@ This repository showcases my hands-on cybersecurity projects, practical security
 
 ---
 
-# 📂 Projects
 
-## ✅ Personal Security Audit
-
-A comprehensive assessment of my personal digital security posture.
-
-### Objective
-
-- Assess the security of personal accounts and devices
-- Identify potential security risks
-- Review publicly available information using OSINT
-- Apply security improvements
-- Document findings in a professional audit report
-
-### Tools Used
-
-- Google Security Checkup
-- Have I Been Pwned
-- EPIEOS (OSINT)
-- GitHub Security Settings
-- LinkedIn Privacy Settings
-- Apple ID Security
-
-📄 **Project Report:** Available inside the **Personal-Security-Audit** folder.
-
----
 
 # 🎯 Career Goal
 
